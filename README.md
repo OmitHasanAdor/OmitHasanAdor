@@ -1,50 +1,113 @@
-# About Me
+# Hi , I'm Omit Hasan Ador
 
-I am an aspiring frontend developer with a strong focus on React, Next.js, and modern web technologies. Combining a background in mechanical design with modern frontend development tools, I build clean, responsive, and performance-optimized web applications. 
+### Frontend-Focused MERN Stack Developer from Bangladesh 🇧🇩
 
-My current goal is to master the full MERN stack and transition into professional full-stack development.
+ Passionate about building modern, responsive, and user-friendly web applications.
+
+ Currently exploring **MERN Stack** and **Next.js** while continuously improving my backend development skills.
+
+🎯 Open to:
+
+* Freelance Opportunities
+* Remote Jobs
+* Collaborations on exciting projects
 
 ---
 
-## Technical Skills
+## About Me
+
+*  Currently learning **Node.js, Express.js & Advanced Next.js**
+*  Interested in **Full-Stack Web Development**
+*  Building projects with **React, Next.js, MongoDB, and Tailwind CSS**
+*  Focused on writing clean, scalable, and maintainable code
+*  Reach me: **[ibneshams05@gmail.com](mailto:ibneshams05@gmail.com)**
+
+---
+
+## Tech Stack
 
 ### Frontend
-* JavaScript (ES6+)
-* React.js
-* Next.js
-* HTML5 / CSS3
-* Tailwind CSS
-* HeroUI / DaisyUI
 
-### Backend & Databases
-* MongoDB
-* Node.js / Express.js (Learning)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge\&logo=javascript)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge\&logo=react)
+![Next JS](https://img.shields.io/badge/Next.js-000?style=for-the-badge\&logo=nextdotjs)
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge\&logo=css3)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-000?style=for-the-badge\&logo=tailwindcss)
+![HeroUI](https://img.shields.io/badge/HeroUI-000?style=for-the-badge)
+![DaisyUI](https://img.shields.io/badge/DaisyUI-000?style=for-the-badge)
 
-### Tools & Software
-* Git / GitHub
-* VS Code
+### Backend & Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge\&logo=mongodb)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge\&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge\&logo=express)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge\&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge\&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-000?style=for-the-badge\&logo=visualstudiocode)
 
 ---
 
-### MediQueue
-A modern, user-friendly, and fully responsive platform built to streamline tutor bookings and academic session management. Designed like a service-oriented marketplace, it offers students a seamless workflow to discover educators, schedule sessions, and manage academic routines within a dynamic user interface.
-* Core Stack: React.js, Tailwind CSS, JavaScript, Context API
-* Key Features: Secure user authentication routes, fully responsive session scheduling engine, integrated light/dark mode configuration, and an interactive booking management workflow.
+## 🌟 Featured Projects
 
-### SunCart
-A highly responsive summer-essentials e-commerce platform built to provide an immersive retail experience. The application prioritizes secure user access, clean state-driven product navigation, and a modern, high-conversion user interface for seamless seasonal shopping.
-* Core Stack: React.js, Tailwind CSS, DaisyUI / HeroUI, Firebase Authentication
-* Key Features: Secure multi-route authentication paths, dynamic client-side product filtering, fluid shopping cart state operations, and responsive grid layouts optimized for all device types.
+### WanderLast - Booking Platform
 
-### Wanderlust
-A comprehensive and fully responsive travel management platform designed to simplify itinerary planning and destination discovery. The application combines rich visual presentation with complex filtering capabilities, allowing users to browse travel packages, manage bookings, and explore global destinations through a seamless interface.
-* Core Stack: Next.js, Tailwind CSS, HeroUI, MongoDB
-* Key Features: Server-side rendering (SSR) for optimized SEO performance, multi-criteria search and discovery filters, secure user interactions, and fluid, high-performance UI components.
- 
+A modern travel and booking platform built with modern web technologies.
+
+🔗 Repository:
+https://github.com/OmitHasanAdor/module52-wanderlast-booking-project
+
 ---
 
-## Current Focus & Goals
+### SunCart - summer-essentials e-commerce platform
 
-* Deepening knowledge of backend architectures to complete the Full stack.
-* Optimizing frontend performance and web accessibility standards.
-* Actively seeking junior developer opportunities and open-source contributions.
+Authentication system built using Next.js with modern authentication workflows.
+
+🔗 Repository:
+https://github.com/OmitHasanAdor/assignment8-auth-nextjs-project
+
+---
+
+###  MediQueue - Tutor Booking System
+
+A tutor booking platform where students can connect and schedule sessions with tutors.
+
+🔗 Repository:
+https://github.com/OmitHasanAdor/ass8-mediqueue-totor-booking-system
+
+---
+
+## GitHub Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OmitHasanAdor)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmitHasanAdor\&layout=compact)
+
+---
+
+## Contribution Snake
+
+```markdown
+## Contribution Snake
+
+![Snake animation](https://github.com/OmitHasanAdor/OmitHasanAdor/blob/output/github-contribution-grid-snake.svg)
+```
+
+---
+
+##  Connect With Me
+
+* LinkedIn: 
+* Portfolio: 
+* Twitter/X: [Your X URL](https://x.com/Ibne_shams05)
+* Facebook: [Your Facebook URL](https://www.facebook.com/hasan.ibn.shams)
+
+
+---
+
+### Thanks for visiting my profile! 
+
+Let's build something amazing together.
