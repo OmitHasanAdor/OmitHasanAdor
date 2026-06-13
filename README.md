@@ -98,8 +98,8 @@ https://github.com/OmitHasanAdor/ass8-mediqueue-totor-booking-system
 
 * LinkedIn: 
 * Portfolio: 
-* Twitter/X: [Your X URL](https://x.com/Ibne_shams05)
-* Facebook: [Your Facebook URL](https://www.facebook.com/hasan.ibn.shams)
+* Twitter/X: [My Twitter](https://x.com/Ibne_shams05)
+* Facebook: [My Facebook](https://www.facebook.com/hasan.ibn.shams)
 
 
 ---
