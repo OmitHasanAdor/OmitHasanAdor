@@ -88,13 +88,9 @@ https://github.com/OmitHasanAdor/ass8-mediqueue-totor-booking-system
 
 ---
 
-## Contribution Snake
+## 🐍 Contribution Snake
 
-```markdown
-## Contribution Snake
-
-![Snake animation](https://github.com/OmitHasanAdor/OmitHasanAdor/blob/output/github-contribution-grid-snake.svg)
-```
+![Snake animation](https://raw.githubusercontent.com/OmitHasanAdor/OmitHasanAdor/output/github-contribution-grid-snake.svg)
 
 ---
 
