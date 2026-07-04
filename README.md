@@ -84,7 +84,7 @@ https://github.com/OmitHasanAdor/ass8-mediqueue-totor-booking-system
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OmitHasanAdor)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmitHasanAdor&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmitHasanAdor&layout=compact&theme=tokyonight&hide=jupyter%20notebook)
 
 ---
 
