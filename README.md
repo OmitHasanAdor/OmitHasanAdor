@@ -84,7 +84,7 @@ https://github.com/OmitHasanAdor/ass8-mediqueue-totor-booking-system
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=OmitHasanAdor)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmitHasanAdor\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OmitHasanAdor&layout=compact)
 
 ---
 
@@ -94,12 +94,11 @@ https://github.com/OmitHasanAdor/ass8-mediqueue-totor-booking-system
 
 ---
 
-##  Connect With Me
+## Connect With Me
 
-* LinkedIn: 
-* Portfolio: 
-* Twitter/X: [My Twitter](https://x.com/Ibne_shams05)
-* Facebook: [My Facebook](https://www.facebook.com/hasan.ibn.shams)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://porto-dot-omit-hasan.vercel.app/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/Ibne_shams05)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/hasan.ibn.shams)
 
 
 ---
