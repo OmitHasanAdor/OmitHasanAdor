@@ -69,7 +69,7 @@ I am a passionate Web Developer specialized in building modern, responsive, and 
 #### 1. [WanderLast - Booking Platform](https://github.com/OmitHasanAdor/module52-wanderlast-booking-project)
 - **Description:** A modern travel and booking platform designed with clean UI and interactive features to enable seamless travel planning.
 - **Technologies Used:** React, Tailwind CSS, JavaScript, REST APIs.
-- **Live Link:** *[এখানে আপনার লাইভ প্রজেক্ট লিংক দিন]*
+- **Live Link:** *[https://module52-wanderlast-booking-project.vercel.app]*
 
 #### 2. [SunCart - Summer-Essentials E-Commerce](https://github.com/OmitHasanAdor/assignment8-auth-nextjs-project)
 - **Description:** An e-commerce system built to handle summer-essential products with modern authentication workflows.
