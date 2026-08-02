@@ -4,7 +4,7 @@
 </p>
 
 <h2 align="center">Frontend-Focused MERN Stack Developer</h2>
-<p align="center">📍 Dhaka, Bangladesh | ✉️ ibneshams05@gmail.com</p>
+<p align="center">📍 Dhaka, Bangladesh | ibneshams05@gmail.com | (+88)01894581651 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -14,21 +14,21 @@
 
 ---
 
-### 🙋‍♂️ About Me
+### About Me
 I am a passionate Web Developer specialized in building modern, responsive, and user-friendly web applications. With a strong foundation in core frontend technologies, I focus on writing clean, scalable, and maintainable code. I love solving complex logic and turning UI/UX designs into fully functional digital experiences.
 
 ---
 
 ### 🚀 Current Activities
-- 🛠️ I am exploring **Next.js** and expanding my Full-Stack ecosystem.
-- 🗺️ I’m working on a **tourism website** to enhance user booking experiences.
-- 🎯 Open to Full-time Remote Jobs, Freelance Opportunities, and exciting open-source collaborations.
+- I am exploring **Next.js** and expanding my Full-Stack ecosystem.
+- I’m working on a **tourism website** to enhance user booking experiences.
+- Open to Full-time Remote Jobs, Freelance Opportunities, and exciting open-source collaborations.
 
 ---
 
 ### 💻 Tech Stack
 
-#### 🌐 Frontend
+#### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -36,12 +36,12 @@ I am a passionate Web Developer specialized in building modern, responsive, and 
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-#### 🗄️ Backend & Database
+#### Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-#### 🔧 Tools & Platforms
+#### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -68,7 +68,7 @@ I am a passionate Web Developer specialized in building modern, responsive, and 
 
 #### 1. [WanderLast - Booking Platform](https://github.com/OmitHasanAdor/module52-wanderlast-booking-project)
 - **Description:** A modern travel and booking platform designed with clean UI and interactive features to enable seamless travel planning.
-- **Technologies Used:** React, Tailwind CSS, JavaScript, REST APIs.
+- **Technologies Used:** Next.js, React, Tailwind CSS, JavaScript, REST APIs.
 - **Live Link:** *[https://module52-wanderlast-booking-project.vercel.app]*
 
 #### 2. [SunCart - Summer-Essentials E-Commerce](https://github.com/OmitHasanAdor/assignment8-auth-nextjs-project)
@@ -78,8 +78,8 @@ I am a passionate Web Developer specialized in building modern, responsive, and 
 
 #### 3. [MediQueue - Tutor Booking System](https://github.com/OmitHasanAdor/ass8-mediqueue-totor-booking-system)
 - **Description:** A collaborative platform where students can seamlessly connect, search, and schedule sessions with tutors.
-- **Technologies Used:** React, Node.js, Express.js, MongoDB, Tailwind CSS.
+- **Technologies Used:** Next.js, React, Node.js, Express.js, MongoDB, Tailwind CSS.
 - **Live Link:** *[ https://ass8-mediqueue-totor-booking-system.vercel.app]*
 
 ---
-<p align="center">Thanks for visiting my profile! Let's build something amazing together. 🚀</p>
+<p align="center">Thanks for visiting my profile! Let's build something amazing together. </p>
