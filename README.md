@@ -50,13 +50,13 @@ I am a passionate Web Developer specialized in building modern, responsive, and 
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmitHasanAdor&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmitHasanAdor&layout=compact&theme=tokyonight&hide=jupyter%20notebook" alt="Top Languages" height="180px" />
+<p align="center">
+  <img height="170" src="https://github-readme-stats-omit.vercel.app/api?username=OmitHasanAdor&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats-omit.vercel.app/api/top-langs/?username=OmitHasanAdor&layout=compact&theme=tokyonight" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmitHasanAdor&theme=tokyonight" alt="GitHub Streak" height="180px" />
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=OmitHasanAdor&theme=tokyonight" />
 </p>
 
 #### 🐍 Contribution Snake
