@@ -48,7 +48,7 @@ I am a passionate Web Developer specialized in building modern, responsive, and 
 
 ---
 
-### 📊 GitHub Stats
+[### 📊 GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats-omit.vercel.app/api?username=OmitHasanAdor&show_icons=true&theme=tokyonight" />
@@ -57,7 +57,7 @@ I am a passionate Web Developer specialized in building modern, responsive, and 
 
 <p align="center">
   <img height="170" src="https://streak-stats.demolab.com?user=OmitHasanAdor&theme=tokyonight" />
-</p>
+</p>](https://github-readme-stats-xi-five-12.vercel.app/api/top-langs/?username=OmitHasanAdor&layout=compact&theme=tokyonight)
 
 #### 🐍 Contribution Snake
 ![Snake animation](https://raw.githubusercontent.com/OmitHasanAdor/OmitHasanAdor/output/github-contribution-grid-snake.svg)
