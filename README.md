@@ -48,16 +48,17 @@ I am a passionate Web Developer specialized in building modern, responsive, and 
 
 ---
 
-[### 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-omit.vercel.app/api?username=OmitHasanAdor&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats-omit.vercel.app/api/top-langs/?username=OmitHasanAdor&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-xi-five-12.vercel.app/api?username=OmitHasanAdor&show_icons=true&theme=tokyonight" height="180"/>
+
+  <img src="https://github-readme-stats-xi-five-12.vercel.app/api/top-langs/?username=OmitHasanAdor&layout=compact&theme=tokyonight&hide=jupyter%20notebook" height="180"/>
 </p>
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=OmitHasanAdor&theme=tokyonight" />
-</p>](https://github-readme-stats-xi-five-12.vercel.app/api/top-langs/?username=OmitHasanAdor&layout=compact&theme=tokyonight)
+  <img src="https://streak-stats.demolab.com?user=OmitHasanAdor&theme=tokyonight" height="180"/>
+</p>
 
 #### 🐍 Contribution Snake
 ![Snake animation](https://raw.githubusercontent.com/OmitHasanAdor/OmitHasanAdor/output/github-contribution-grid-snake.svg)
