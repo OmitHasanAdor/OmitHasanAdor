@@ -66,7 +66,10 @@ I am a passionate Frontend Focused MERN Stack Developer specialized in building 
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=OmitHasanAdor&theme=tokyonight" height="180"/>
+  <img
+    src="https://streak-stats.demolab.com?user=OmitHasanAdor&theme=tokyonight&v=2"
+    height="180"
+  />
 </p>
 
 #### 🐍 Contribution Snake
