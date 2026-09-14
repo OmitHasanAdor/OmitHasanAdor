@@ -93,9 +93,9 @@ I am a passionate Frontend Focused MERN Stack Developer specialized in building 
 
 #### 3. [WanderLast – Travel Booking Platform](https://github.com/OmitHasanAdor/module52-wanderlast-booking-project)
 
-- **Description:** A full-stack travel booking platform built with Next.js and Express.js, featuring secure authentication with Better Auth (JWT), destination search and filtering, MongoDB-backed data management, tour booking, protected RESTful APIs, and a responsive, modern user interface for seamless travel planning.
+- **Description:** A full-stack travel booking platform built with Next.js and Express.js, featuring secure authentication with Better Auth(JWT), destination search and filtering, MongoDB-backed data management, tour booking, protected RESTful APIs, and a responsive, modern user interface for seamless travel planning.
 - **Technologies Used:** React.js,TypeScript, Next.js, Node.js, Express.js, MongoDB, Better Auth (JWT), Tailwind CSS, HeroUI, DaisyUI, Vercel
 - **Live Link:** https://module52-wanderlast-booking-project.vercel.app/
 
 ---
-<p align="center">Thanks for visiting my profile! Let's build something amazing together. </p>
+<p align="center">Thanks for visiting my Profile! Let's build something amazing together. </p>
