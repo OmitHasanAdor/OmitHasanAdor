@@ -79,23 +79,26 @@ I am a passionate Frontend Focused MERN Stack Developer specialized in building 
 
 ### 🌟 Pinned Repositories
 
-#### 1. [Medicare Connect – Hospital Appointment & Management System](https://github.com/OmitHasanAdor/ass10-medicare-client-side)
+
+#### 1. [EasyBuy – AI-Powered Two-Sided Marketplace](https://github.com/OmitHasanAdor/EasyBuy)
+- **Description:** Built a full marketplace platform for buyers, sellers, and admins with role-based dashboards, product catalogue, cart & wishlist, address management, and order flow. Integrated SSLCommerz (bKash, Nagad, cards) plus Cash on Delivery. Added practical AI features: EasyBuy Assistant (budget & occasion-based product suggestions), Virtual Trial Room, ListingCopilot, PriceSense, StockMind, and ReviewGuard for smarter shopping, listing, and moderation.
+- **Technologies Used:** Next.js, TypeScript, Tailwind CSS, Node.js, Express.js, Prisma, PostgreSQL, Better Auth, SSLCommerz, Google Gemini API, Vercel
+- **Live Link:** https://easy-buy-ruddy.vercel.app
+- **Backend:** https://github.com/OmitHasanAdor/easybuy-server
+
+#### 2. [Medicare Connect – Hospital Appointment & Management System](https://github.com/OmitHasanAdor/ass10-medicare-client-side)
 
 - **Description:** Developed a production-style healthcare platform with JWT-based authentication (Better Auth), role-based authorization, Stripe payment integration, RESTful APIs, MongoDB data persistence, appointment scheduling, doctor availability management, and responsive dashboards for Patients, Doctors, and Admins.
 - **Technologies Used:** React.js, Next.js, Node.js, Express.js, MongoDB, Stripe, Tailwind CSS, HeroUI, Better Auth (JWT), Vercel
 - **Live Link:** https://ass10-medicare-client-side.vercel.app
   
-#### 2. [MediQueue – Tutor Booking System](https://github.com/OmitHasanAdor/ass8-mediqueue-totor-booking-system)
+#### 3. [MediQueue – Tutor Booking System](https://github.com/OmitHasanAdor/ass8-mediqueue-totor-booking-system)
 
 - **Description:** Developed a full-stack tutor booking platform with Better Auth (JWT) authentication, RESTful APIs, MongoDB data persistence, tutor search, study session scheduling, booking management, and a responsive interface built with Next.js and Tailwind CSS.
 - **Technologies Used:** React.js, Next.js, Node.js, Express.js, MongoDB, Better Auth (JWT), Tailwind CSS, HeroUI, DaisyUI, Vercel
 - **Live Link:** https://ass8-mediqueue-totor-booking-system.vercel.app
 
-#### 3. [WanderLast – Travel Booking Platform](https://github.com/OmitHasanAdor/module52-wanderlast-booking-project)
 
-- **Description:** A full-stack travel booking platform built with Next.js and Express.js, featuring secure authentication with Better Auth(JWT), destination search and filtering, MongoDB-backed data management, tour booking, protected RESTful APIs, and a responsive, modern user interface for seamless travel planning.
-- **Technologies Used:** React.js,TypeScript, Next.js, Node.js, Express.js, MongoDB, Better Auth (JWT), Tailwind CSS, HeroUI, DaisyUI, Vercel
-- **Live Link:** https://module52-wanderlast-booking-project.vercel.app/
 
 ---
 <p align="center">Thanks for visiting my Profile! Let's build something amazing together. </p>
