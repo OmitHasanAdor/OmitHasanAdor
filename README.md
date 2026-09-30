@@ -15,7 +15,7 @@
 ---
 
 ### About Me
-I am a passionate Frontend Focused MERN Stack Developer specialized in building modern, responsive, and user-friendly web applications. With a strong foundation in core frontend technologies, I focus on writing clean, scalable, and maintainable code. I love solving complex logic and turning UI/UX designs into fully functional digital experiences.
+I am a passionate Frontend-Focused Full Stack Developer specialized in building modern, responsive, and user-friendly web applications. With a strong foundation in Next.js, React, TypeScript, Tailwind CSS, Node.js, Express, Prisma, and PostgreSQL, I focus on writing clean, scalable, and maintainable code. I love turning UI/UX designs into fully functional digital experiences.
 
 ---
 
