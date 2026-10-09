@@ -1,6 +1,14 @@
 <!-- Banner Image Section -->
 
 
+<p align="center">
+  <img src="./header-claude.svg" width="100%" alt="Omit Hasan Ador - Developer Banner" />
+</p>
+
+<p align="center">
+  <img src="./intro-claude.svg" width="100%" alt="Developer Introduction" />
+</p>
+
 
 <h2 align="center">Frontend-Focused Full Stack Developer</h2>
 <p align="center">📍 Dhaka, Bangladesh | ibneshams05@gmail.com | (+88)01894581651 </p>
