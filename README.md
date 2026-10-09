@@ -1,7 +1,6 @@
 <!-- Banner Image Section -->
-<p align="center">
-  <img width="1584" height="396" alt="linkbanner" src="https://github.com/user-attachments/assets/89bf2b1f-7cf6-4e5e-9ede-0a2f24801f0e" />
-</p>
+
+
 
 <h2 align="center">Frontend-Focused Full Stack Developer</h2>
 <p align="center">📍 Dhaka, Bangladesh | ibneshams05@gmail.com | (+88)01894581651 </p>
