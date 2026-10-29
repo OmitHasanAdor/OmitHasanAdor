@@ -107,12 +107,14 @@ I am a passionate Frontend-Focused Full Stack Developer specialized in building 
 - **Description:** Developed a production-style healthcare platform with JWT-based authentication (Better Auth), role-based authorization, Stripe payment integration, RESTful APIs, MongoDB data persistence, appointment scheduling, doctor availability management, and responsive dashboards for Patients, Doctors, and Admins.
 - **Technologies Used:** React.js, Next.js, Node.js, Express.js, MongoDB, Stripe, Tailwind CSS, HeroUI, Better Auth (JWT), Vercel
 - **Live Link:** https://ass10-medicare-client-side.vercel.app
+- **Backend:** https://github.com/OmitHasanAdor/ass10-medicare-server
   
 #### 3. [MediQueue – Tutor Booking System](https://github.com/OmitHasanAdor/ass8-mediqueue-totor-booking-system)
 
-- **Description:** Developed a full-stack tutor booking platform with Better Auth (JWT) authentication, RESTful APIs, MongoDB data persistence, tutor search, study session scheduling, booking management, and a responsive interface built with Next.js and Tailwind CSS.
-- **Technologies Used:** React.js, Next.js, Node.js, Express.js, MongoDB, Better Auth (JWT), Tailwind CSS, HeroUI, DaisyUI, Vercel
+- **Description:** Built a full-stack tutor booking platform with JWT authentication and role-based access for Students, Tutors, and Admins. Implemented smart tutor search & filtering, session booking with Stripe payments, slot management, and personalized dashboards. Added an admin panel for user roles, session control, and platform analytics.
+- **Technologies Used:** Next.js, React.js, Node.js, Express.js, MongoDB, Better Auth (JWT), Stripe, Tailwind CSS, DaisyUI, HeroUI, Vercel
 - **Live Link:** https://ass8-mediqueue-totor-booking-system.vercel.app
+- **Backend:** https://github.com/OmitHasanAdor/ass8-mediqueue-server
 
 
 
